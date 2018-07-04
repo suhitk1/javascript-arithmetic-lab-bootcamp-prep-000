@@ -10,3 +10,14 @@ function multiply(a,b) {
 function divide(a,b) {
   return (a/b)
 }
+function inc(n) {
+  n++;
+  return (n)
+}
+function dec(n) {
+  n--;
+  return (n)
+}
+function makeInt(n) {
+  
+}
