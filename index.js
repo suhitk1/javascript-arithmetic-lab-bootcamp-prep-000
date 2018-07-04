@@ -27,6 +27,6 @@ parseInt(n, 10)
 return(n)
 }
 function preserveDecimal(n){
-  parseFloat(n);
-  return(n)
+  var m = parseFloat(n);
+  return(m)
 }
